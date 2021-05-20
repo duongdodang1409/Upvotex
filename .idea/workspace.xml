@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="279347fb-fdc9-4733-9f1c-431df3bf20da" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.3908676">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/list_post.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="7361">
+                  <caret line="439" column="20" selection-start-line="439" selection-start-column="11" selection-end-line="439" selection-end-column="20" />
+                  <folding>
+                    <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/list_boards.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="4165">
+                  <caret line="292" column="38" selection-start-line="245" selection-start-column="29" selection-end-line="292" selection-end-column="38" />
+                  <folding>
+                    <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/list_status.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="5185">
+                  <caret line="311" selection-start-line="311" selection-end-line="311" />
+                  <folding>
+                    <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="340">
+                  <caret line="20" column="17" selection-start-line="20" selection-end-line="126" />
+                  <folding>
+                    <element signature="n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#a#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#a#0;n#li#1;n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#li#1;n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#3;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/add_changlog.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="4046">
+                  <caret line="238" column="50" selection-start-line="238" selection-start-column="50" selection-end-line="238" selection-end-column="50" />
+                  <folding>
+                    <element signature="n#div#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#1;n#div#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/add_boards.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="221">
+                  <caret line="13" column="71" selection-start-line="13" selection-end-line="14" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/add_roadmap.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="4692">
+                  <caret line="276" column="50" selection-start-line="268" selection-start-column="43" selection-end-line="276" selection-end-column="50" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/list_category_changlog.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="5355">
+                  <caret line="321" column="50" selection-start-line="321" selection-end-line="322" />
+                  <folding>
+                    <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/list_label_user.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="4250">
+                  <caret line="250" column="115" selection-start-line="250" selection-start-column="115" selection-end-line="250" selection-end-column="115" />
+                  <folding>
+                    <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/css/upvotex.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="313">
+                  <caret line="112" column="10" selection-start-line="112" selection-start-column="10" selection-end-line="112" selection-end-column="10" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/list_user.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="6256">
+                  <caret line="374" selection-start-line="374" selection-end-line="374" />
+                  <folding>
+                    <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/add_category_changlog.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="3961">
+                  <caret line="233" column="28" selection-start-line="233" selection-start-column="28" selection-end-line="233" selection-end-column="28" />
+                  <folding>
+                    <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/js/ruang-admin.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1309">
+                  <caret line="77" selection-start-line="77" selection-end-line="77" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/js/ruang-admin.min.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="17">
+                  <caret line="1" selection-start-line="1" selection-end-line="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/list_roadmap.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="5406">
+                  <caret line="318" selection-start-line="318" selection-end-line="318" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/css/theme.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="18394">
+                  <caret line="1082" column="29" selection-start-line="1082" selection-start-column="29" selection-end-line="1082" selection-end-column="29" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/css/theme.min.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret column="10494" selection-start-column="10494" selection-end-column="10494" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/genarel.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="3111">
+                  <caret line="288" column="96" selection-start-line="288" selection-start-column="96" selection-end-line="288" selection-end-column="96" />
+                  <folding>
+                    <element signature="n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/add_post.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="4369">
+                  <caret line="265" column="42" selection-start-line="265" selection-start-column="42" selection-end-line="265" selection-end-column="42" />
+                  <folding>
+                    <element signature="n#div#0;n#div#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#1;n#div#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/list_changlog.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="5287">
+                  <caret line="317" column="20" selection-start-line="317" selection-start-column="20" selection-end-line="317" selection-end-column="20" />
+                  <folding>
+                    <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Chang log</find>
+      <find>gen</find>
+      <find>h3</find>
+      <find>You Content</find>
+      <find>Update category</find>
+      <find>.breadcrumb</find>
+      <find>.sidebar-light .nav-item.active .nav-link i</find>
+      <find>600</find>
+      <find>&lt;td&gt;&lt;a href=&quot;#&quot; class=&quot;text-info mr-2&quot;&gt;view&lt;i class=&quot;ml-2 fas fa-eye&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#&quot; class=&quot;text mr-2&quot;&gt;edit&lt;i class=&quot;fas fa-edit ml-2&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#&quot; class=&quot;text-danger&quot;&gt;remove&lt;i class=&quot;ml-2 fas fa-trash-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;</find>
+      <find>&lt;td&gt;&lt;a href=&quot;#&quot; class=&quot;text-info mr-2&quot;&gt;&lt;i class=&quot;fas fa-eye&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#&quot; class=&quot;text mr-2&quot;&gt;&lt;i class=&quot;fas fa-edit&quot; data-toggle=&quot;modal&quot; data-target=&quot;#editchanglog&quot; id=&quot;#edit&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#&quot; class=&quot;text-danger&quot;&gt;&lt;i class=&quot;fas fa-trash-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;</find>
+      <find>class=&quot;form-control&quot;</find>
+      <find>&lt;h2 class=&quot;h3 mb-0 text-gray-800&quot;&gt;</find>
+      <find>&lt;button type=&quot;button&quot; class=&quot;btn btn-primary&quot;&gt;Apply&lt;/button&gt;</find>
+      <find>&lt;button type=&quot;button&quot; class=&quot;btn btn-primary pt-1 pb-1&quot;&gt;Apply&lt;/button&gt;</find>
+      <find>&lt;button type=&quot;button&quot; class=&quot;btn btn-primary pt-1 pb-1&quot;&gt;Search&lt;/button&gt;</find>
+      <find>&lt;/h1&gt;</find>
+      <find>Genarel Settings&lt;/h1&gt;</find>
+      <find>&lt;h6 class=&quot;h3 mb-3 text-gray-800&quot;&gt;</find>
+      <find>&lt;h6</find>
+      <find>h3 mb-0 text-gray-800</find>
+      <find>&lt;div class=&quot;small ml-3&quot;&gt;</find>
+      <find>&lt;td&gt;&lt;a href=&quot;#&quot; class=&quot;text mr-2&quot;&gt;&lt;i class=&quot;fas fa-edit&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#&quot; class=&quot;text-danger&quot;&gt;&lt;i class=&quot;fas fa-trash-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;</find>
+      <find>&lt;td&gt;&lt;a href=&quot;#&quot; class=&quot;text mr-2&quot;&gt;edit&lt;i class=&quot;fas fa-edit ml-1&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#&quot; class=&quot;text-danger&quot;&gt;remove&lt;i class=&quot;ml-1 fas fa-trash-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;</find>
+      <find>&lt;td&gt;&lt;a href=&quot;#&quot; class=&quot;text-info mr-2&quot;&gt;view&lt;i class=&quot;ml-1 fas fa-eye&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#&quot; class=&quot;text mr-2&quot;&gt;edit&lt;i class=&quot;fas fa-edit ml-1&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#&quot; class=&quot;text-danger&quot;&gt;remove&lt;i class=&quot;ml-1 fas fa-trash-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;</find>
+      <find>color: #333;</find>
+      <find>.sidebar-light .nav-item .nav-link</find>
+      <find>color:#333</find>
+      <find>.sidebar-light .nav-item .nav-link:hover i</find>
+      <find>.sidebar .nav-item .nav-link span</find>
+      <find>sw</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&lt;link href=&quot;css/theme.min.css&quot; rel=&quot;stylesheet&quot;&gt;&lt;link href=&quot;css/upvotex.min.css&quot; rel=&quot;stylesheet&quot;&gt;</replace>
+      <replace>12bb94</replace>
+      <replace>&lt;a href=&quot;#&quot; class=&quot;text mr-2&quot;&gt;&lt;i class=&quot;fas fa-edit&quot;&gt;&lt;/i&gt;&lt;/a&gt;</replace>
+      <replace>&lt;td&gt;&lt;a href=&quot;#&quot; class=&quot;text mr-2&quot;&gt;&lt;i class=&quot;fas fa-edit&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#&quot; class=&quot;text-danger&quot;&gt;&lt;i class=&quot;fas fa-trash-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;</replace>
+      <replace>Changlogs</replace>
+      <replace>Update Label</replace>
+      <replace />
+      <replace>&lt;link href=&quot;css/theme.min.css&quot; rel=&quot;stylesheet&quot;&gt;&lt;link href=&quot;css/upvotex.min.css&quot; rel=&quot;stylesheet&quot;&gt;  &lt;link href=&quot;https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap&quot; rel=&quot;stylesheet&quot;&gt; </replace>
+      <replace>&lt;h2 class=&quot;h3 mb-0 text-gray-800&quot;&gt;</replace>
+      <replace>&lt;td&gt;&lt;a href=&quot;#&quot; class=&quot;text-info mr-2&quot;&gt;view&lt;i class=&quot;ml-2 fas fa-eye&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#&quot; class=&quot;text mr-2&quot;&gt;edit&lt;i class=&quot;fas fa-edit ml-2&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#&quot; class=&quot;text-danger&quot;&gt;remove&lt;i class=&quot;ml-2 fas fa-trash-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;</replace>
+      <replace>&lt;td&gt;&lt;a href=&quot;#&quot; class=&quot;text-info mr-2&quot;&gt;view&lt;i class=&quot;ml-1 fas fa-eye&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#&quot; class=&quot;text mr-2&quot;&gt;edit&lt;i class=&quot;fas fa-edit ml-1&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#&quot; class=&quot;text-danger&quot;&gt;remove&lt;i class=&quot;ml-1 fas fa-trash-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;</replace>
+      <replace>&lt;td&gt;&lt;a href=&quot;#&quot; class=&quot;text-info mr-2&quot;&gt;view&lt;i class=&quot;ml-1 fas fa-eye&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#&quot; class=&quot;text mr-2&quot;&gt;edit&lt;i class=&quot;fas fa-edit data-toggle=&quot;modal&quot; data-target=&quot;#editchanglog&quot; id=&quot;#edit&quot; ml-1&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#&quot; class=&quot;text-danger&quot;&gt;remove&lt;i class=&quot;ml-1 fas fa-trash-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;</replace>
+      <replace>class=&quot;form-control-sm form-control&quot;</replace>
+      <replace>&lt;h4 class=&quot;h4 mb-0 text-gray-800&quot;&gt;</replace>
+      <replace>&lt;h2 class=&quot;h2 mb-0 text-gray-800&quot;&gt;</replace>
+      <replace>New user</replace>
+      <replace>&lt;button type=&quot;button&quot; class=&quot;btn btn-primary aplly&quot;&gt;Apply&lt;/button&gt;</replace>
+      <replace>&lt;button type=&quot;button&quot; class=&quot;btn btn-primary btn_search&quot;&gt;Search&lt;/button&gt;</replace>
+      <replace>&lt;/h2&gt;</replace>
+      <replace>&lt;p class=&quot; ml-3&quot;&gt;</replace>
+      <replace>&lt;td&gt;&lt;a href=&quot;#&quot; class=&quot;text mr-2&quot;&gt;edit&lt;i class=&quot;fas fa-edit ml-1&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#&quot; class=&quot;text-danger&quot;&gt;remove&lt;i class=&quot;ml-1 fas fa-trash-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;</replace>
+      <replace>&lt;td class=&quot;td_custom&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;text mr-2&quot;&gt;edit&lt;i class=&quot;fas fa-edit ml-1&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#&quot; class=&quot;text-danger&quot;&gt;remove&lt;i class=&quot;ml-1 fas fa-trash-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;</replace>
+      <replace>&lt;td class=&quot;td_custom&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;text-info mr-2&quot;&gt;view&lt;i class=&quot;ml-1 fas fa-eye&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#&quot; class=&quot;text mr-2&quot;&gt;edit&lt;i class=&quot;fas fa-edit ml-1&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#&quot; class=&quot;text-danger&quot;&gt;remove&lt;i class=&quot;ml-1 fas fa-trash-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;</replace>
+      <replace>color: #1e2022;</replace>
+      <replace>color: #1e2022</replace>
+      <replace>font-size: .875rem;</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\admin\Desktop\UpvoteX\scss</dir>
+      <dir>C:\Users\admin\Desktop\UpvoteX</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/scss/navs/_global.scss" />
+        <option value="$PROJECT_DIR$/ui-colors.html" />
+        <option value="$PROJECT_DIR$/dropdowns.html" />
+        <option value="$PROJECT_DIR$/progress-bar.html" />
+        <option value="$PROJECT_DIR$/buttons.html" />
+        <option value="$PROJECT_DIR$/copycontent.html" />
+        <option value="$PROJECT_DIR$/datatables.html" />
+        <option value="$PROJECT_DIR$/charts.html" />
+        <option value="$PROJECT_DIR$/form_advanceds.html" />
+        <option value="$PROJECT_DIR$/popovers.html" />
+        <option value="$PROJECT_DIR$/404.html" />
+        <option value="$PROJECT_DIR$/alerts.html" />
+        <option value="$PROJECT_DIR$/form_basics.html" />
+        <option value="$PROJECT_DIR$/simple-tables.html" />
+        <option value="$PROJECT_DIR$/blank.html" />
+        <option value="$PROJECT_DIR$/list.boards.html" />
+        <option value="$PROJECT_DIR$/ckeditor/config.js" />
+        <option value="$PROJECT_DIR$/add_label_user.html" />
+        <option value="$PROJECT_DIR$/add_user.html" />
+        <option value="$PROJECT_DIR$/add_category_changlog.html" />
+        <option value="$PROJECT_DIR$/add_roadmap.html" />
+        <option value="$PROJECT_DIR$/add_post.html" />
+        <option value="$PROJECT_DIR$/js/ruang-admin.js" />
+        <option value="$PROJECT_DIR$/js/ruang-admin.min.js" />
+        <option value="$PROJECT_DIR$/add_boards.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/modals.html" />
+        <option value="$PROJECT_DIR$/profile_user.html" />
+        <option value="$PROJECT_DIR$/add_changlog.html" />
+        <option value="$PROJECT_DIR$/list_post.html" />
+        <option value="$PROJECT_DIR$/list_changlog.html" />
+        <option value="$PROJECT_DIR$/list_boards.html" />
+        <option value="$PROJECT_DIR$/list_roadmap.html" />
+        <option value="$PROJECT_DIR$/list_status.html" />
+        <option value="$PROJECT_DIR$/list_category_changlog.html" />
+        <option value="$PROJECT_DIR$/genarel.html" />
+        <option value="$PROJECT_DIR$/list_label_user.html" />
+        <option value="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/add_status.html" />
+        <option value="$PROJECT_DIR$/list_user.html" />
+        <option value="$PROJECT_DIR$/ckeditor/contents.css" />
+        <option value="$PROJECT_DIR$/css/theme.css" />
+        <option value="$PROJECT_DIR$/css/theme.min.css" />
+        <option value="$PROJECT_DIR$/css/upvotex.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="UpvoteX" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="UpvoteX" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="css" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="UpvoteX" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="vendor" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\UpvoteX\ckeditor\plugins" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="279347fb-fdc9-4733-9f1c-431df3bf20da" name="Default Changelist" comment="" />
+      <created>1599615655036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599615655036</updated>
+      <workItem from="1599615658605" duration="18278000" />
+      <workItem from="1599700659637" duration="26654000" />
+      <workItem from="1599787377763" duration="18398000" />
+      <workItem from="1599872942346" duration="14519000" />
+      <workItem from="1599892946759" duration="3523000" />
+      <workItem from="1599896589090" duration="3278000" />
+      <workItem from="1600051308258" duration="3421000" />
+      <workItem from="1600067504636" duration="598000" />
+      <workItem from="1600070858613" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="88689000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1785174" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scss/_mixins.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_login.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_global.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/navs/_sidebar.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/navs/_global.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding>
+            <element signature="e#82#910#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dropdowns.html" />
+    <entry file="file://$PROJECT_DIR$/datatables.html" />
+    <entry file="file://$PROJECT_DIR$/js/demo/chart-area-demo.js" />
+    <entry file="file://$PROJECT_DIR$/copycontent.html" />
+    <entry file="file://$PROJECT_DIR$/buttons.html" />
+    <entry file="file://$PROJECT_DIR$/blank.html" />
+    <entry file="file://$PROJECT_DIR$/css/upvotex.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alerts.html" />
+    <entry file="file://$PROJECT_DIR$/charts.html" />
+    <entry file="file://$PROJECT_DIR$/ckeditor/plugins/uploadimage/plugin.js" />
+    <entry file="file://$PROJECT_DIR$/img/error.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/girl.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/undraw_posting_photo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/innovation.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/man.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/boy.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/demo/chart-bar-demo.js" />
+    <entry file="file://$PROJECT_DIR$/form_basics.html" />
+    <entry file="file://$PROJECT_DIR$/ckeditor/ckeditor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/think.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="299" column="26" selection-start-line="299" selection-start-column="26" selection-end-line="299" selection-end-column="26" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_label_user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4046">
+          <caret line="252" column="30" selection-start-line="238" selection-start-column="23" selection-end-line="252" selection-end-column="30" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modals.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5899">
+          <caret line="347" column="16" selection-start-line="328" selection-start-column="10" selection-end-line="347" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_status.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4063">
+          <caret line="257" column="30" selection-start-line="239" selection-start-column="23" selection-end-line="257" selection-end-column="30" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ckeditor/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profile_user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2856">
+          <caret line="226" column="64" lean-forward="true" selection-start-line="226" selection-start-column="64" selection-end-line="226" selection-end-column="64" />
+          <folding>
+            <element signature="n#a#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#a#0;n#li#1;n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#li#1;n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list_post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7361">
+          <caret line="439" column="20" selection-start-line="439" selection-start-column="11" selection-end-line="439" selection-end-column="20" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list_boards.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4165">
+          <caret line="292" column="38" selection-start-line="245" selection-start-column="29" selection-end-line="292" selection-end-column="38" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list_status.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5185">
+          <caret line="311" selection-start-line="311" selection-end-line="311" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="17" selection-start-line="20" selection-end-line="126" />
+          <folding>
+            <element signature="n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#a#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#a#0;n#li#1;n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#li#1;n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_changlog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4046">
+          <caret line="238" column="50" selection-start-line="238" selection-start-column="50" selection-end-line="238" selection-end-column="50" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_boards.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="71" selection-start-line="13" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_roadmap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4692">
+          <caret line="276" column="50" selection-start-line="268" selection-start-column="43" selection-end-line="276" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list_category_changlog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5355">
+          <caret line="321" column="50" selection-start-line="321" selection-end-line="322" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list_label_user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4250">
+          <caret line="250" column="115" selection-start-line="250" selection-start-column="115" selection-end-line="250" selection-end-column="115" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/upvotex.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="112" column="10" selection-start-line="112" selection-start-column="10" selection-end-line="112" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list_user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6256">
+          <caret line="374" selection-start-line="374" selection-end-line="374" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_category_changlog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3961">
+          <caret line="233" column="28" selection-start-line="233" selection-start-column="28" selection-end-line="233" selection-end-column="28" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/ruang-admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/ruang-admin.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list_roadmap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5406">
+          <caret line="318" selection-start-line="318" selection-end-line="318" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18394">
+          <caret line="1082" column="29" selection-start-line="1082" selection-start-column="29" selection-end-line="1082" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genarel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3111">
+          <caret line="288" column="96" selection-start-line="288" selection-start-column="96" selection-end-line="288" selection-end-column="96" />
+          <folding>
+            <element signature="n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4369">
+          <caret line="265" column="42" selection-start-line="265" selection-start-column="42" selection-end-line="265" selection-end-column="42" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list_changlog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5287">
+          <caret line="317" column="20" selection-start-line="317" selection-start-column="20" selection-end-line="317" selection-end-column="20" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/theme.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10494" selection-start-column="10494" selection-end-column="10494" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
